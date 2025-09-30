@@ -1,4 +1,4 @@
-# 🧠 Mental Health Web App
+# 🧠 Deep Learning Techniques for Accurate and Continuous Emotion Detection in Mental Health Applications
 
 A Django-based web application to support **mental wellness** — daily mood tracking, curated resources, and community support.
 
