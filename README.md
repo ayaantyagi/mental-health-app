@@ -45,3 +45,91 @@ mental-health-app/
 ├── static/                    # Global static files                           
 ├── media/                     # Uploaded files                       
 └── docs/                      # Documentation & screenshots                         
+
+---
+
+## 🧩 Installation & Setup
+
+**Prerequisites:**  
+- Python 3.8+  
+- pip  
+- virtualenv  
+
+**Steps:**
+
+```bash
+
+# Clone the repo
+git clone https://github.com/ayaantyagi/mental-health-app.git
+cd mental-health-app
+
+# Create and activate virtual environment
+python3 -m venv venv
+source venv/bin/activate           # macOS / Linux
+# venv\Scripts\activate           # Windows (PowerShell)
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Create a .env file (use .env.example as template)
+# Example:
+# SECRET_KEY=your_secret_key
+# DEBUG=True
+# ALLOWED_HOSTS=localhost,127.0.0.1
+
+# Run migrations
+python manage.py migrate
+python manage.py createsuperuser
+
+# Start the development server
+python manage.py runserver
+
+---
+
+### 4. Add Usage / Demo section:
+
+```md
+## 🎬 Usage / Demo
+
+- Login / Register  
+- Dashboard showing mood history  
+- Add new mood entry  
+- View resource library  
+- (If forum exists) Post comments
+
+```md
+![Dashboard View](docs/dashboard.png)
+![Add Mood Flow](docs/add_mood.gif)
+
+---
+
+### 5. Add Deployment / Live Demo (if applicable)
+
+```md
+## 🚀 Deployment / Live Demo
+
+**Live version:** https://your-live-app-url.com  
+
+*( “Coming soon” or “In progress”)*  
+## 🤝 Contributing
+
+We welcome contributions!  
+
+1. Fork the repository  
+2. Create a feature branch: `feature/your-feature`  
+3. Make changes & commit with message  
+4. Push to your fork & open a Pull Request  
+5. Ensure any new features are accompanied by screenshots or tests
+
+## 📄 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## 📫 Contact
+
+**Ayan Tyagi**  
+Email: [ayan.tyagi2211@gmail.com](mailto:ayan.tyagi2211@gmail.com)  
+LinkedIn: https://linkedin.com/in/yourusername  
+GitHub: https://github.com/ayaantyagi
+
+
