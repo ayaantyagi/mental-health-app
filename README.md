@@ -1,4 +1,4 @@
-# 🧠 Deep Learning Techniques for Accurate and Continuous Emotion Detection in Mental Health Applications
+ # 🧠 Deep Learning Techniques for Accurate and Continuous Emotion Detection in Mental Health Applications
 
 A Django-based web application to support **mental wellness** — daily mood tracking, curated resources, and community support.
 
@@ -14,20 +14,20 @@ A Django-based web application to support **mental wellness** — daily mood tra
 ---
 
 ## 🛠 Tech Stack
-- **Backend:** Python, Django, Django REST Framework  
-- **Frontend:** HTML, CSS, JavaScript (can integrate React later)  
-- **Database:** SQLite (dev) / PostgreSQL (prod)  
-- **Dev Tools:** Git, GitHub, VS Code, virtualenv
-
----
-
-## Folder Structure
-mental-health-app/
-├── manage.py                   # Django project manager    
-├── requirements.txt            # Python dependencies     
-├── README.md                   # Documentation       
+- **Backend:** Python, Django, Django REST Framework           
+- **Frontend:** HTML, CSS, JavaScript (can integrate React later)              
+- **Database:** SQLite (dev) / PostgreSQL (prod)                 
+- **Dev Tools:** Git, GitHub, VS Code, virtualenv                     
+                       
+---                        
+                 
+## Folder Structure 
+mental-health-app/                                              
+├── manage.py                   # Django project manager           
+├── requirements.txt            # Python dependencies      
+├── README.md                   # Documentation        
 ├── .gitignore                  # Ignore venv, pycache, env files      
-├── config/                     # Project settings          
+├── config/                     # Project settings       
 │   ├── __init__.py      
 │   ├── settings.py        
 │   ├── urls.py        
