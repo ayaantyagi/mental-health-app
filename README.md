@@ -27,7 +27,7 @@ mental-health-app/
 ├── requirements.txt            # Python dependencies      
 ├── README.md                   # Documentation        
 ├── .gitignore                  # Ignore venv, pycache, env files      
-├── config/                     # Project settings       
+├── config/                     # Project settings         
 │   ├── __init__.py      
 │   ├── settings.py        
 │   ├── urls.py        
