@@ -33,7 +33,7 @@ mental-health-app/
 │   ├── urls.py        
 │   ├── wsgi.py        
 │   └── asgi.py          
-├── core/                      # Main app         
+├── core/                      # Main app          
 │   ├── migrations/            # DB migrations         
 │   ├── templates/             # HTML templates              
 │   ├── static/                # CSS, JS, Images                      
