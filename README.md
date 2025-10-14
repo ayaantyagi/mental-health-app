@@ -128,7 +128,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## 📫 Contact
 
 **Ayan Tyagi**  
-Email: [ayan.tyagi2211@gmail.com](mailto:ayan.tyagi2211@gmail.com)  
+Email: [ayan.tyagi2211@gmail.com](mailto:ayan.tyagi2211@gmail.com)   
 LinkedIn: https://linkedin.com/in/yourusername  
 GitHub: https://github.com/ayaantyagi
 
