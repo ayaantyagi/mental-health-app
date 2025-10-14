@@ -28,7 +28,7 @@ mental-health-app/
 ├── README.md                   # Documentation        
 ├── .gitignore                  # Ignore venv, pycache, env files      
 ├── config/                     # Project settings         
-│   ├── __init__.py      
+│   ├── __init__.py       
 │   ├── settings.py        
 │   ├── urls.py        
 │   ├── wsgi.py        
