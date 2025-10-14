@@ -77,7 +77,7 @@ pip install -r requirements.txt
 # DEBUG=True
 # ALLOWED_HOSTS=localhost,127.0.0.1
 
-# Run migrations
+# Run migrations 
 python manage.py migrate
 python manage.py createsuperuser
 
