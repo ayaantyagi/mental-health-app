@@ -49,7 +49,7 @@ mental-health-app/
 ---
 
 ## 🧩 Installation & Setup
-
+ 
 **Prerequisites:**  
 - Python 3.8+  
 - pip  
