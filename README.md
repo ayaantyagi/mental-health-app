@@ -9,7 +9,7 @@ A Django-based web application to support **mental wellness** — daily mood tra
 - ✅ Daily mood / mental-health tracker  
 - ✅ Resource library (articles, helplines)  
 - ✅ Discussion forum / comment section (optional)  
-- ✅ Responsive UI for mobile & desktop
+- ✅ Responsive UI for mobile & desktop  
 
 ---
  
