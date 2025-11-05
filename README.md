@@ -11,7 +11,7 @@ A Django-based web application to support **mental wellness** — daily mood tra
 - ✅ Discussion forum / comment section (optional)  
 - ✅ Responsive UI for mobile & desktop  
 
----
+---   
  
 ## 🛠 Tech Stack
 - **Backend:** Python, Django, Django REST Framework           
