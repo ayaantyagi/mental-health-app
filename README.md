@@ -67,7 +67,7 @@ cd mental-health-app
 python3 -m venv venv
 source venv/bin/activate           # macOS / Linux
 # venv\Scripts\activate           # Windows (PowerShell)
-
+ 
 # Install dependencies
 pip install -r requirements.txt
 
