@@ -94,7 +94,7 @@ python manage.py runserver
 - Login / Register  
 - Dashboard showing mood history  
 - Add new mood entry  
-- View resource library  
+- View resource library   
 - (If forum exists) Post comments
 
 ```md
