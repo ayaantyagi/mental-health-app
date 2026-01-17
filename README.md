@@ -4,7 +4,7 @@ A Django-based web application to support **mental wellness** — daily mood tra
 
 ---
  
-## 🚀 Key Features 
+## 🚀 Key Features  
 - ✅ User registration & authentication (Django auth)   
 - ✅ Daily mood / mental-health tracker  
 - ✅ Resource library (articles, helplines)     
